@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 4206257273617525813}
   - component: {fileID: 4177254264330076526}
   - component: {fileID: 4778905010175645115}
-  - component: {fileID: 7673472007371232259}
+  - component: {fileID: 8878081918504452553}
   m_Layer: 0
   m_Name: bot (1)
   m_TagString: Untagged
@@ -163,7 +163,7 @@ MonoBehaviour:
   speed: 0
   vertical: 0
   changeTime: 3
---- !u!95 &7673472007371232259
+--- !u!95 &8878081918504452553
 Animator:
   serializedVersion: 4
   m_ObjectHideFlags: 0
