@@ -22,6 +22,11 @@ public class RubyController : MonoBehaviour
     Animator animator;
     Vector2 lookDirection = new Vector2(1, 0);
 
+    void Launch()
+    {
+        GameObject projectileObject = Instantiate(projectilePrefab, rigidbody2d.)
+    }
+
     // Start is called before the first frame update
     void Start()
     {
